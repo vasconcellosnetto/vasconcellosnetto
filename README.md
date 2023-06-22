@@ -6,7 +6,7 @@
 
 ## Hello world! 🤓
 
-I'm an Information Systems Bachelor by Universidade de Taubate and I'm currently finishing my Post-Graduation in Data Science & Big Data Analytics by Universidade Estácio de Sá.
+I'm an Information Systems Bachelor by Universidade de Taubate, Post-Graduated in Data Science & Big Data Analytics by Universidade Estácio de Sá.
 
 - 👩🏻‍💻 Job: On-Site Support Analyst at **HCL Tech**
 - 💙 Love: Back-end Development & Data Science
