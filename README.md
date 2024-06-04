@@ -8,7 +8,7 @@
 
 I'm an Information Systems Bachelor by Universidade de Taubate, Post-Graduated in Data Science & Big Data Analytics by Universidade Estácio de Sá.
 
-- 👩🏻‍💻 Job: On-Site Support Analyst at **HCL Tech**
+- 👩🏻‍💻 Job: Lowcode developer at **Power Rocks**
 - 💙 Love: Back-end Development & Data Science
-- 📖 Studying: Data Analysis, Python, AWS, Machine Learning
+- 📖 Studying: Godot Game Engine, Data Analysis, Python, Machine Learning
 - 👀 Looking for: Better ways to handle data and learning new stuff
