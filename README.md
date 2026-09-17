@@ -6,7 +6,7 @@
 
 I'm a passionate **Fullstack Developer** with experience in **Power Platform**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **NodeJS/AdonisJS, React and UX/UI Design**
+- 🌱 Currently learning: **Node.js/AdonisJS, React and UX/UI Design**
 - 🔭 Working on: **-**
 - 🌍 Languages: **Brazilian Portuguese, English, Spanish**
 - 📫 How to reach me: **vasconcellosnetto@gmail.com**
